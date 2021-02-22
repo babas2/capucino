@@ -1,0 +1,6 @@
+pyrogram
+Pillow
+wheel
+tgcrypto
+pyppeteer
+requests
